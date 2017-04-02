@@ -182,7 +182,7 @@ hr.small {
 
 .callout {
     display: table;
-    width: 100%;
+    width: 600px;
     height: 400px;
     color: #fff;
     background: url(../img/calloutFH.jpg) no-repeat center center scroll;
